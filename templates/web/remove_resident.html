@@ -1,0 +1,15 @@
+
+{% extends 'web/base.html' %}
+
+{% block content %}
+<div>
+<h4>Enter Vehicle Number to delete from database</h4>
+    <form method="POST" class="post-form">{% csrf_token %}
+        <strong>{{ form.as_p }}</strong>
+        <button type="submit" class="save btn btn-success">Save</button>
+    </form>
+</div>
+<div class="text-center">
+    <a href="{% url 'dashboard' %}" type ="button" class ="btn  btn-dark" ><i class="fa fa-home" aria-hidden="true"></i>Home</a>
+</div>
+{% endblock %}
