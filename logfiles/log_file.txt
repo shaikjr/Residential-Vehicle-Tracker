@@ -1,0 +1,8 @@
+Visitor's Logfile
+Generated at: 2024-11-07 22:46:44.413646
+--------------------------------------------------
+Visitor_Name: TestVisitor1
+VisitingResident: TestResidentABC
+VisitingVehicleNumber: MH12KY4034
+--------------------------------------------------
+END
