@@ -1,4 +1,4 @@
-# Mobile Camera Application to Monitor Residential Society Vehicle Activity 
+# SMART MOBILE APPLICATION FOR TRACKING VEHICLE MOVEMENTS IN RESIDENTIAL COMMUNITIES
 # Group No: CEI - 17
 
 ## Project Overview
