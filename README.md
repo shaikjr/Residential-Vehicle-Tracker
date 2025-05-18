@@ -33,11 +33,10 @@
 
 
 ## Technologies Used
-- **Programming Languages**: Python, Java, etc.
+- **Programming Languages**: Python, Java, HTML, CSS, JavaScript.
 - **Libraries**: BeautifulSoup, Requests, Pandas, NumPy etc.
-- **Frameworks**: Flask (for backend), React (for frontend), etc.
-- **Tools**: Web Scraping, Data Analytics, JSON parsing, Price comparison algorithms.
-
+- **Frameworks**: Flask (for backend), Django (MVC/MVT architecture)
+- **Tools**: OpenCV, TensorFlow/Keras (or PyTorch) – for ANPR (Automatic Number Plate Recognition) Image Processing, Object Detection, Model Deployment, BeautifulSoup, Requests, Pandas, NumPy, Matplotlib, JSON, Python                Virtual Environments.
 ## How to Use
 1. Clone or download the project from the GitHub repository to your local system.
 2. Install necessary dependencies, such as Android Studio (for mobile development) or required libraries if the backend uses Python or Node.js.
