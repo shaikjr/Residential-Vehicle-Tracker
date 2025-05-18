@@ -6,20 +6,16 @@
 ## Team Members
 - **Shaik Mahaboob** (Roll No: 20211CEI0142)  
   Email: [shaik.20211cei0142@presidencyuniversity.in](mailto:shaik.20211cei0142@presidencyuniversity.in)  
-  Phone: +91 8328050921
 
-- **Indukuri Manvitha Reddy** (Roll No: 20211CEI0024)  
-  Email: [indukuri.20211cei0024@presidencyuniversity.in](mailto:beduduri.20211cei0024@presidencyuniversity.in)  
-  Phone: +91 7013229283
+- **BEDUDURI SAINATH REDDY** (Roll No: 20211CEI0150)  
+  Email: [beduduri.20211cei0150@presidencyuniversity.in](mailto:beduduri.20211cei0024@presidencyuniversity.in)  
 
 - **J Abhinay Reddy** (Roll No: 20211CEI0151)  
   Email: [abhinay.20211cei0151@presidencyuniversity.in](mailto:abhinay.20211cei0151@presidencyuniversity.in)  
-  Phone: +91 6300102389
 
 ## Guide
 - **Debasmita Mishra**  
   Email: [debasmita.mishra@presidencyuniversity.in](mailto:debasmita.mishra@presidencyuniversity.in)  
-  Phone: +91 8480699188  
   **Area of Expertise**: AI, ML, DL, RPA, etc.  
   **Guide Program**: COM & CEI
 
