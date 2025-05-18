@@ -1,4 +1,4 @@
-# SMART MOBILE APPLICATION FOR TRACKING VEHICLE MOVEMENTS IN RESIDENTIAL COMMUNITIES
+# Web-Based Vehicle Tracking System Using ANPR for Residential Communities
 # Group No: CEI - 17
 
 ## Project OverviewThis project aims to develop a smart mobile application to track and monitor vehicle movements within gated residential communities. The application enhances security, access control, and visitor management by maintaining real-time records of vehicles entering and exiting the premises. It leverages GPS tracking, mobile notifications, and cloud-based logging to support both residents and security personnel with transparent, efficient, and user-friendly vehicle monitoring.
